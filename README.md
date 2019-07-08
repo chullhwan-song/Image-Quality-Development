@@ -1,4 +1,4 @@
-# Image-Qualtiy
+# Image Quality
 
 ## 목적
 * [1]의 논문 구현/테스트/평가
