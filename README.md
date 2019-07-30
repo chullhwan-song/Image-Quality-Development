@@ -4,6 +4,13 @@
 * [1]의 논문 구현/테스트/평가
 * idea추가한 업그레이드
 
+## paper review
+* Learning to Compose with Professional Photographs on the Web : [[paper]](https://arxiv.org/abs/1702.00503)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/10)
+* Photo Aesthetics Ranking Network with Attributes and Content Adaptation : [[paper]](http://users.eecs.northwestern.edu/~xsh835/assets/eccv2016_aesthetics.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/65)
+* Composition-preserving Deep Photo Aesthetics Assessment : [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/66)
+* Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer : [[paper]](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/99)
+* NIMA: Neural Image Assessment : [[paper]](https://arxiv.org/abs/1709.05424)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/119)
+
 ## 진행상황
 * target논문으로 google Nima 논문[1]을 참고하고 있음.
 * 관련 소스가 많지만 그중 tf slim base로 된 이[2] 소스(thanks..!!)를 참고. 논문재현 및 향상 시키려고 노력하고 있음.
